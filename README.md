@@ -1,4 +1,4 @@
-# mecpool
+# SMRide
 
 A new Flutter project.
 
